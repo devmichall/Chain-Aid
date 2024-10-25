@@ -2,6 +2,8 @@ ChainAid - On-Chain Crowdfunding Platform
 Overview
 ChainAid is a decentralized crowdfunding platform that allows users to create, fund, and track campaigns directly on the blockchain. 
 
+Live Link: https://chainaid.vercel.app/
+
 To run this project, you need to have the following installed on your machine:
 
 Node.js (v14.x or later)
